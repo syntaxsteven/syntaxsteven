@@ -1,4 +1,5 @@
 <h1 align="center">Greetings Everyone! I'm Steven Alberto</h1>
+
 -👨🏻‍💻 a SWE student learning and exploring new technologies that power the world around us!
 
 -🧠 I am currently learning and working with lots of new technology, I am mainly focusing on Full-Stack Web Development, DSA in Java, and Networking/Homelabbing
